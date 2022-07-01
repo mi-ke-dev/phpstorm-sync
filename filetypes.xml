@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="yml-2022-06-22" type="PLAIN_TEXT" />
+      <mapping ext="yml-06-21" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
